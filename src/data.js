@@ -48,22 +48,34 @@ export const categories = [
 export const products = [
   {
     id: 1,
-    img: "https://images.pexels.com/photos/279480/pexels-photo-279480.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    img: "https://cdn.pixabay.com/photo/2017/01/13/04/56/blank-1976334_960_720.png",
   },
   {
     id: 2,
-    img: "https://images.pexels.com/photos/6767772/pexels-photo-6767772.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    img: "https://cdn.pixabay.com/photo/2016/10/02/22/17/red-t-shirt-1710578_960_720.jpg",
   },
   {
     id: 3,
-    img: "https://images.pexels.com/photos/4841454/pexels-photo-4841454.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    img: "https://cdn.pixabay.com/photo/2020/12/11/09/08/man-5822274_960_720.jpg",
   },
   {
     id: 4,
-    img: "https://images.pexels.com/photos/2292919/pexels-photo-2292919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    img: "https://cdn.pixabay.com/photo/2017/04/04/10/51/girl-2201009_960_720.jpg",
   },
   {
     id: 5,
-    img: "https://images.pexels.com/photos/4173318/pexels-photo-4173318.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    img: "https://cdn.pixabay.com/photo/2017/09/06/23/23/red-2723476_960_720.jpg",
+  },
+  {
+    id: 6,
+    img: "https://cdn.pixabay.com/photo/2015/01/15/16/17/silhouette-600485_960_720.jpg",
+  },
+  {
+    id: 7,
+    img: "https://cdn.pixabay.com/photo/2016/08/31/22/21/school-1634755_960_720.jpg",
+  },
+  {
+    id: 8,
+    img: "https://cdn.pixabay.com/photo/2018/11/09/16/51/fashion-3805034_960_720.jpg",
   },
 ];
